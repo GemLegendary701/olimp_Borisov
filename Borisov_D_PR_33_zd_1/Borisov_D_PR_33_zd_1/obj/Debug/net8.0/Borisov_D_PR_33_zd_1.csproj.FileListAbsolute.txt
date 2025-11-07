@@ -1,0 +1,14 @@
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_1\Borisov_D_PR_33_zd_1\bin\Debug\net8.0\Borisov_D_PR_33_zd_1.exe
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_1\Borisov_D_PR_33_zd_1\bin\Debug\net8.0\Borisov_D_PR_33_zd_1.deps.json
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_1\Borisov_D_PR_33_zd_1\bin\Debug\net8.0\Borisov_D_PR_33_zd_1.runtimeconfig.json
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_1\Borisov_D_PR_33_zd_1\bin\Debug\net8.0\Borisov_D_PR_33_zd_1.dll
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_1\Borisov_D_PR_33_zd_1\bin\Debug\net8.0\Borisov_D_PR_33_zd_1.pdb
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_1\Borisov_D_PR_33_zd_1\obj\Debug\net8.0\Borisov_D_PR_33_zd_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_1\Borisov_D_PR_33_zd_1\obj\Debug\net8.0\Borisov_D_PR_33_zd_1.AssemblyInfoInputs.cache
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_1\Borisov_D_PR_33_zd_1\obj\Debug\net8.0\Borisov_D_PR_33_zd_1.AssemblyInfo.cs
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_1\Borisov_D_PR_33_zd_1\obj\Debug\net8.0\Borisov_D_PR_33_zd_1.csproj.CoreCompileInputs.cache
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_1\Borisov_D_PR_33_zd_1\obj\Debug\net8.0\Borisov_D_PR_33_zd_1.dll
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_1\Borisov_D_PR_33_zd_1\obj\Debug\net8.0\refint\Borisov_D_PR_33_zd_1.dll
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_1\Borisov_D_PR_33_zd_1\obj\Debug\net8.0\Borisov_D_PR_33_zd_1.pdb
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_1\Borisov_D_PR_33_zd_1\obj\Debug\net8.0\Borisov_D_PR_33_zd_1.genruntimeconfig.cache
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_1\Borisov_D_PR_33_zd_1\obj\Debug\net8.0\ref\Borisov_D_PR_33_zd_1.dll
