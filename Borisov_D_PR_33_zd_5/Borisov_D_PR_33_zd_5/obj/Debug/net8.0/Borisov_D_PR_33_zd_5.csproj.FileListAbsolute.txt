@@ -1,0 +1,14 @@
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_5\Borisov_D_PR_33_zd_5\bin\Debug\net8.0\Borisov_D_PR_33_zd_5.exe
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_5\Borisov_D_PR_33_zd_5\bin\Debug\net8.0\Borisov_D_PR_33_zd_5.deps.json
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_5\Borisov_D_PR_33_zd_5\bin\Debug\net8.0\Borisov_D_PR_33_zd_5.runtimeconfig.json
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_5\Borisov_D_PR_33_zd_5\bin\Debug\net8.0\Borisov_D_PR_33_zd_5.dll
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_5\Borisov_D_PR_33_zd_5\bin\Debug\net8.0\Borisov_D_PR_33_zd_5.pdb
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_5\Borisov_D_PR_33_zd_5\obj\Debug\net8.0\Borisov_D_PR_33_zd_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_5\Borisov_D_PR_33_zd_5\obj\Debug\net8.0\Borisov_D_PR_33_zd_5.AssemblyInfoInputs.cache
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_5\Borisov_D_PR_33_zd_5\obj\Debug\net8.0\Borisov_D_PR_33_zd_5.AssemblyInfo.cs
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_5\Borisov_D_PR_33_zd_5\obj\Debug\net8.0\Borisov_D_PR_33_zd_5.csproj.CoreCompileInputs.cache
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_5\Borisov_D_PR_33_zd_5\obj\Debug\net8.0\Borisov_D_PR_33_zd_5.dll
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_5\Borisov_D_PR_33_zd_5\obj\Debug\net8.0\refint\Borisov_D_PR_33_zd_5.dll
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_5\Borisov_D_PR_33_zd_5\obj\Debug\net8.0\Borisov_D_PR_33_zd_5.pdb
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_5\Borisov_D_PR_33_zd_5\obj\Debug\net8.0\Borisov_D_PR_33_zd_5.genruntimeconfig.cache
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_5\Borisov_D_PR_33_zd_5\obj\Debug\net8.0\ref\Borisov_D_PR_33_zd_5.dll
