@@ -1,0 +1,14 @@
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_2\Borisov_D_PR_33_zd_2\bin\Debug\net8.0\Borisov_D_PR_33_zd_2.exe
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_2\Borisov_D_PR_33_zd_2\bin\Debug\net8.0\Borisov_D_PR_33_zd_2.deps.json
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_2\Borisov_D_PR_33_zd_2\bin\Debug\net8.0\Borisov_D_PR_33_zd_2.runtimeconfig.json
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_2\Borisov_D_PR_33_zd_2\bin\Debug\net8.0\Borisov_D_PR_33_zd_2.dll
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_2\Borisov_D_PR_33_zd_2\bin\Debug\net8.0\Borisov_D_PR_33_zd_2.pdb
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_2\Borisov_D_PR_33_zd_2\obj\Debug\net8.0\Borisov_D_PR_33_zd_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_2\Borisov_D_PR_33_zd_2\obj\Debug\net8.0\Borisov_D_PR_33_zd_2.AssemblyInfoInputs.cache
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_2\Borisov_D_PR_33_zd_2\obj\Debug\net8.0\Borisov_D_PR_33_zd_2.AssemblyInfo.cs
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_2\Borisov_D_PR_33_zd_2\obj\Debug\net8.0\Borisov_D_PR_33_zd_2.csproj.CoreCompileInputs.cache
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_2\Borisov_D_PR_33_zd_2\obj\Debug\net8.0\Borisov_D_PR_33_zd_2.dll
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_2\Borisov_D_PR_33_zd_2\obj\Debug\net8.0\refint\Borisov_D_PR_33_zd_2.dll
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_2\Borisov_D_PR_33_zd_2\obj\Debug\net8.0\Borisov_D_PR_33_zd_2.pdb
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_2\Borisov_D_PR_33_zd_2\obj\Debug\net8.0\Borisov_D_PR_33_zd_2.genruntimeconfig.cache
+C:\Users\boris\Desktop\Системное программирование\Borisov_D_PR_33_zd_2\Borisov_D_PR_33_zd_2\obj\Debug\net8.0\ref\Borisov_D_PR_33_zd_2.dll
